@@ -27,7 +27,6 @@ Installation Steps
 
 Clone the repository:
 
-bash
 
 git clone https://github.com/gauriaman7/EDA-Quotes-Author-Tag.git
 
